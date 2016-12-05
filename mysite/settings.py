@@ -25,7 +25,7 @@ SECRET_KEY = 'z59qjx!2bj57)!@3^1)54f+%(p31_1j)9&vn%lg!1*rk%a0d3m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['vaneerivass.pythonanywhere.com']
+ALLOWED_HOSTS = ['vaneerivass.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
